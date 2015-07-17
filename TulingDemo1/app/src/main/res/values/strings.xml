@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">想聊啥</string>
+    <string name="action_settings">Settings</string>
+    <string name="sendbtn">发送</string>
+
+    <string-array name="welcome_tips">
+        <item>EVA欢迎主人莅临！</item>
+        <item>主人奴婢恭候多时了</item>
+        <item>欢迎主人回来</item>
+        <item>主人奴婢可想您了</item>
+        <item>聪明的EVA欢迎您</item>
+        <item>主人我可爱吗</item>
+    </string-array>
+</resources>
